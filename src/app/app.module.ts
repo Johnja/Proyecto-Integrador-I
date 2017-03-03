@@ -11,7 +11,7 @@ import { HeroDetailComponent } from './hero-detail.component';
     FormsModule
   ],
   declarations: [
-    AppComponent
+    AppComponent,
     HeroDetailComponent
   ],
   bootstrap: [ AppComponent ]
